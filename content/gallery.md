@@ -1,7 +1,7 @@
 ---
-title: 主页
-description: 关于本Wiki的介绍
-order: 1
+title: 画廊
+description: 学海娘
+order: 3
 ---
 
 # 画廊
