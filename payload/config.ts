@@ -9,10 +9,10 @@ import { Payload } from '@/lib/payload/types';
  */
 export const payload: Payload = {
   global: {
-    title: 'My Wiki',
-    description: 'A documentation site built with eziwiki',
+    title: 'Xuehai Wiki',
+    description: '破碎数据研究组的学海维基',
     favicon: '/favicon.svg',
-    baseUrl: 'https://example.com',
+    baseUrl: 'https://xh.asxz.one',
 
     /**
      * 'path' gives readable, indexable URLs (/guides/writing).
