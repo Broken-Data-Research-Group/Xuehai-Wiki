@@ -1,7 +1,7 @@
 ---
 title: 首页
 description: 关于本Wiki的介绍
-order: 3
+order: 1
 ---
 
 # 学海维基
