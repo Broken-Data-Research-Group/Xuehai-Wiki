@@ -1,5 +1,7 @@
 # [学海维基](https://xh.asxz.one) 
 
+# 迁移到： [https://github.com/Xuehai-Wiki/Xuehai-Wiki/](https://github.com/Xuehai-Wiki/Xuehai-Wiki/)
+
 写点什么好呢……
 
 我不到啊，也许我只是一个苯醌，被Redstix拉来建维基了
